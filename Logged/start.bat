@@ -1,1 +1,0 @@
-py -m PyInstaller --clean --onefile -w --console hazard.py
